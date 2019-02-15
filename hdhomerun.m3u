@@ -1,0 +1,179 @@
+#EXTM3U
+#EXTINF:-1 tvh-chnum="502" tvg-id="I17087.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/TV2.png" tvh-tags="SECTV",TV2
+http://10.0.14.12:5004/auto/v502/
+#EXTINF:-1 tvh-chnum="503" tvg-id="I19611.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/CBS.png" tvh-tags="SECTV|NCAA|NFL",CBS
+http://10.0.14.12:5004/auto/v503/
+#EXTINF:-1 tvh-chnum="504" tvg-id="I32619.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/WPHL.png" tvh-tags="SECTV",WPHL
+http://10.0.14.12:5004/auto/v504/
+#EXTINF:-1 tvh-chnum="505" tvg-id="I19614.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/FOX.png" tvh-tags="SECTV|NFL",FOX 5
+http://10.0.14.12:5004/auto/v505/
+#EXTINF:-1 tvh-chnum="506" tvg-id="I19612.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/ABC.png" tvh-tags="SECTV",ABC
+http://10.0.14.12:5004/auto/v506/
+#EXTINF:-1 tvh-chnum="507" tvg-id="I64010.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/METV.png" tvh-tags="SECTV",METV
+http://10.0.14.12:5004/auto/v507/
+#EXTINF:-1 tvh-chnum="508" tvg-id="I20289.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/WFMZ.png" tvh-tags="SECTV",WFMZ
+http://10.0.14.12:5004/auto/v508/
+#EXTINF:-1 tvh-chnum="509" tvg-id="I26566.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/WWOR.png" tvh-tags="SECTV",WWOR
+http://10.0.14.12:5004/auto/v509/
+#EXTINF:-1 tvh-chnum="510" tvg-id="I19613.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/NBC.png" tvh-tags="SECTV|NFL",NBC
+http://10.0.14.12:5004/auto/v510/
+#EXTINF:-1 tvh-chnum="511" tvg-id="I20373.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/WPIX.png" tvh-tags="SECTV",WPIX
+http://10.0.14.12:5004/auto/v511/
+#EXTINF:-1 tvh-chnum="512" tvg-id="I24783.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/WLVT.png" tvh-tags="SECTV",WLVT
+http://10.0.14.12:5004/auto/v512/
+#EXTINF:-1 tvh-chnum="513" tvg-id="I20360.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/FOX.png" tvh-tags="SECTV|NFL",FOX 13
+http://10.0.14.12:5004/auto/v513/
+#EXTINF:-1 tvh-chnum="514" tvg-id="I60222.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/QVC.png" tvh-tags="SECTV",QVC
+http://10.0.14.12:5004/auto/v514/
+#EXTINF:-1 tvh-chnum="515" tvg-id="I73079.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/PCN.png" tvh-tags="SECTV",Pennsylvania Cable Network
+http://10.0.14.12:5004/auto/v515/
+#EXTINF:-1 tvh-chnum="519" tvg-id="I43971.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/ION.png" tvh-tags="SECTV",ION
+http://10.0.14.12:5004/auto/v519/
+#EXTINF:-1 tvh-chnum="520" tvg-id="I35859.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/AccuWeather.png" tvh-tags="SECTV",AccuWeather
+http://10.0.14.12:5004/auto/v520/
+#EXTINF:-1 tvh-chnum="521" tvg-id="I24114.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/PBS.png" tvh-tags="SECTV",PBS
+http://10.0.14.12:5004/auto/v521/
+#EXTINF:-1 tvh-chnum="523" tvg-id="I60696.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/ESPN_U.png" tvh-tags="SECTV",ESPN U
+http://10.0.14.12:5004/auto/v523/
+#EXTINF:-1 tvh-chnum="524" tvg-id="I32645.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/ESPN.png" tvh-tags="SECTV",ESPN
+http://10.0.14.12:5004/auto/v524/
+#EXTINF:-1 tvh-chnum="525" tvg-id="I45507.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/ESPN2.png" tvh-tags="SECTV",ESPN2
+http://10.0.14.12:5004/auto/v525/
+#EXTINF:-1 tvh-chnum="526" tvg-id="I59976.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/ESPN_NEWS.png" tvh-tags="SECTV",ESPN NEWS
+http://10.0.14.12:5004/auto/v526/
+#EXTINF:-1 tvh-chnum="527" tvg-id="I63440.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/NBC_Sports_Philadelphia.png" tvh-tags="SECTV",NBC Sports Philadelphia Plus
+http://10.0.14.12:5004/auto/v527/
+#EXTINF:-1 tvh-chnum="528" tvg-id="I32571.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/NBC_Sports_Philadelphia.png" tvh-tags="SECTV",NBC Sports Philadelphia
+http://10.0.14.12:5004/auto/v528/
+#EXTINF:-1 tvh-chnum="529" tvg-id="I45399.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/NFL_Network.png" tvh-tags="SECTV|NFL",NFL Network
+http://10.0.14.12:5004/auto/v529/
+#EXTINF:-1 tvh-chnum="530" tvg-id="I62081.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/MLB_Network.png" tvh-tags="SECTV",MLB Network
+http://10.0.14.12:5004/auto/v530/
+#EXTINF:-1 tvh-chnum="531" tvg-id="I61854.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/Golf_Channel.png" tvh-tags="SECTV",The Golf Channel
+http://10.0.14.12:5004/auto/v531/
+#EXTINF:-1 tvh-chnum="532" tvg-id="I58321.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/Big_Ten.png" tvh-tags="SECTV",Big Ten Network
+http://10.0.14.12:5004/auto/v532/
+#EXTINF:-1 tvh-chnum="533" tvg-id="I58515.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/TBS.png" tvh-tags="SECTV|NCAA",TBS
+http://10.0.14.12:5004/auto/v533/
+#EXTINF:-1 tvh-chnum="534" tvg-id="I42642.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/TNT.png" tvh-tags="SECTV|NCAA",TNT
+http://10.0.14.12:5004/auto/v534/
+#EXTINF:-1 tvh-chnum="535" tvg-id="I58452.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/USA.png" tvh-tags="SECTV",USA Network
+http://10.0.14.12:5004/auto/v535/
+#EXTINF:-1 tvh-chnum="536" tvg-id="I58574.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/FX.png" tvh-tags="SECTV",FX
+http://10.0.14.12:5004/auto/v536/
+#EXTINF:-1 tvh-chnum="537" tvg-id="I58780.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/CNBC.png" tvh-tags="SECTV",CNBC
+http://10.0.14.12:5004/auto/v537/
+#EXTINF:-1 tvh-chnum="538" tvg-id="I64241.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/MSNBC.png" tvh-tags="SECTV",MSNBC
+http://10.0.14.12:5004/auto/v538/
+#EXTINF:-1 tvh-chnum="539" tvg-id="I60179.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/FOX_News.png" tvh-tags="SECTV",FOX News
+http://10.0.14.12:5004/auto/v539/
+#EXTINF:-1 tvh-chnum="540" tvg-id="I58718.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/FOX_Business.png" tvh-tags="SECTV",FOX Business
+http://10.0.14.12:5004/auto/v540/
+#EXTINF:-1 tvh-chnum="541" tvg-id="I58646.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/CNN.png" tvh-tags="SECTV",CNN
+http://10.0.14.12:5004/auto/v541/
+#EXTINF:-1 tvh-chnum="542" tvg-id="I56905.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/Discovery.png" tvh-tags="SECTV",The Discovery Channel
+http://10.0.14.12:5004/auto/v542/
+#EXTINF:-1 tvh-chnum="543" tvg-id="I57394.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/Animal_Planet.png" tvh-tags="SECTV",Animal Planet
+http://10.0.14.12:5004/auto/v543/
+#EXTINF:-1 tvh-chnum="544" tvg-id="I60150.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/Lifetime.png" tvh-tags="SECTV",Lifetime
+http://10.0.14.12:5004/auto/v544/
+#EXTINF:-1 tvh-chnum="545" tvg-id="I51529.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/A&E.png" tvh-tags="SECTV",A&E
+http://10.0.14.12:5004/auto/v545/
+#EXTINF:-1 tvh-chnum="546" tvg-id="I60964.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/MTV.png" tvh-tags="SECTV",MTV
+http://10.0.14.12:5004/auto/v546/
+#EXTINF:-1 tvh-chnum="547" tvg-id="I60046.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/VH-1.png" tvh-tags="SECTV",VH-1
+http://10.0.14.12:5004/auto/v547/
+#EXTINF:-1 tvh-chnum="549" tvg-id="I64549.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/HLN.png" tvh-tags="SECTV",HLN
+http://10.0.14.12:5004/auto/v549/
+#EXTINF:-1 tvh-chnum="550" tvg-id="I91043.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/Public_Access.png" tvh-tags="SECTV",SE50
+http://10.0.14.12:5004/auto/v550/
+#EXTINF:-1 tvh-chnum="556" tvg-id="I43156.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/Live_Well.png" tvh-tags="SECTV",Live Well Network
+http://10.0.14.12:5004/auto/v556/
+#EXTINF:-1 tvh-chnum="557" tvg-id="I34628.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/WPSG.png" tvh-tags="SECTV",WPSG
+http://10.0.14.12:5004/auto/v557/
+#EXTINF:-1 tvh-chnum="558" tvg-id="I46710.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/Hallmark_Movies.png" tvh-tags="SECTV",Hallmark Movies and Mysteries
+http://10.0.14.12:5004/auto/v558/
+#EXTINF:-1 tvh-chnum="559" tvg-id="I58812.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/The_Weather_Channel.png" tvh-tags="SECTV",The Weather Channel
+http://10.0.14.12:5004/auto/v559/
+#EXTINF:-1 tvh-chnum="560" tvg-id="I59684.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/Disney.png" tvh-tags="SECTV",Disney Channel
+http://10.0.14.12:5004/auto/v560/
+#EXTINF:-1 tvh-chnum="561" tvg-id="I60006.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/Disney_XD.png" tvh-tags="SECTV",Disney XD
+http://10.0.14.12:5004/auto/v561/
+#EXTINF:-1 tvh-chnum="562" tvg-id="I60048.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/Cartoon_Network.png" tvh-tags="SECTV",Cartoon Network
+http://10.0.14.12:5004/auto/v562/
+#EXTINF:-1 tvh-chnum="563" tvg-id="I59432.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/Nickelodeon.png" tvh-tags="SECTV",Nickelodeon
+http://10.0.14.12:5004/auto/v563/
+#EXTINF:-1 tvh-chnum="564" tvg-id="I73541.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/TV_Land.png" tvh-tags="SECTV",TV Land
+http://10.0.14.12:5004/auto/v564/
+#EXTINF:-1 tvh-chnum="565" tvg-id="I59615.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/Freeform.png" tvh-tags="SECTV",Freeform
+http://10.0.14.12:5004/auto/v565/
+#EXTINF:-1 tvh-chnum="566" tvg-id="I82547.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/FOX_Sports_1.png" tvh-tags="SECTV",FOX Sports 1
+http://10.0.14.12:5004/auto/v566/
+#EXTINF:-1 tvh-chnum="567" tvg-id="I66379.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/FXX.png" tvh-tags="SECTV",FXX
+http://10.0.14.12:5004/auto/v567/
+#EXTINF:-1 tvh-chnum="569" tvg-id="I91096.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/WGN.png" tvh-tags="SECTV",WGN America
+http://10.0.14.12:5004/auto/v569/
+#EXTINF:-1 tvh-chnum="570" tvg-id="I50747.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/Food_Network.png" tvh-tags="SECTV",Food Network
+http://10.0.14.12:5004/auto/v570/
+#EXTINF:-1 tvh-chnum="571" tvg-id="I49788.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/HGTV.png" tvh-tags="SECTV",HGTV
+http://10.0.14.12:5004/auto/v571/
+#EXTINF:-1 tvh-chnum="572" tvg-id="I58625.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/Bravo.png" tvh-tags="SECTV",Bravo
+http://10.0.14.12:5004/auto/v572/
+#EXTINF:-1 tvh-chnum="573" tvg-id="I63236.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/BET.png" tvh-tags="SECTV",BET
+http://10.0.14.12:5004/auto/v573/
+#EXTINF:-1 tvh-chnum="574" tvg-id="I65342.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/Investigation_Discovery.png" tvh-tags="SECTV",Investigation Discovery
+http://10.0.14.12:5004/auto/v574/
+#EXTINF:-1 tvh-chnum="577" tvg-id="I57391.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/TLC.png" tvh-tags="SECTV",The Learning Channel
+http://10.0.14.12:5004/auto/v577/
+#EXTINF:-1 tvh-chnum="578" tvg-id="I57708.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/History_Channel.png" tvh-tags="SECTV",History Channel
+http://10.0.14.12:5004/auto/v578/
+#EXTINF:-1 tvh-chnum="579" tvg-id="I59303.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/Travel_Channel.png" tvh-tags="SECTV",Travel Channel
+http://10.0.14.12:5004/auto/v579/
+#EXTINF:-1 tvh-chnum="580" tvg-id="I59186.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/Paramount_Network.png" tvh-tags="SECTV",Paramount Network
+http://10.0.14.12:5004/auto/v580/
+#EXTINF:-1 tvh-chnum="581" tvg-id="I59440.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/CMT.png" tvh-tags="SECTV",CMT
+http://10.0.14.12:5004/auto/v581/
+#EXTINF:-1 tvh-chnum="582" tvg-id="I58623.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/SyFy.png" tvh-tags="SECTV",SyFy
+http://10.0.14.12:5004/auto/v582/
+#EXTINF:-1 tvh-chnum="583" tvg-id="I59337.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/AMC.png" tvh-tags="SECTV",AMC
+http://10.0.14.12:5004/auto/v583/
+#EXTINF:-1 tvh-chnum="584" tvg-id="I64312.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/TCM.png" tvh-tags="SECTV",TCM
+http://10.0.14.12:5004/auto/v584/
+#EXTINF:-1 tvh-chnum="585" tvg-id="I55887.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/Lifetime_Movie_Network.png" tvh-tags="SECTV",Lifetime Movie Network
+http://10.0.14.12:5004/auto/v585/
+#EXTINF:-1 tvh-chnum="586" tvg-id="I62420.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/Comedy_Central.png" tvh-tags="SECTV",Comedy Central
+http://10.0.14.12:5004/auto/v586/
+#EXTINF:-1 tvh-chnum="587" tvg-id="I68827.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/Game_Show_Network.png" tvh-tags="SECTV",Game Show Network
+http://10.0.14.12:5004/auto/v587/
+#EXTINF:-1 tvh-chnum="588" tvg-id="I74885.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/Disney_Jr..png" tvh-tags="SECTV",Disney Jr.
+http://10.0.14.12:5004/auto/v588/
+#EXTINF:-1 tvh-chnum="589" tvg-id="I61812.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/E!.png" tvh-tags="SECTV",E!
+http://10.0.14.12:5004/auto/v589/
+#EXTINF:-1 tvh-chnum="590" tvg-id="I49438.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/National_Geographic.png" tvh-tags="SECTV",National Geographic
+http://10.0.14.12:5004/auto/v590/
+#EXTINF:-1 tvh-chnum="591" tvg-id="I61036.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/MAV_TV.png" tvh-tags="SECTV",MAV TV
+http://10.0.14.12:5004/auto/v591/
+#EXTINF:-1 tvh-chnum="592" tvg-id="I46737.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/Outdoor_Channel.png" tvh-tags="SECTV",Outdoor Channel
+http://10.0.14.12:5004/auto/v592/
+#EXTINF:-1 tvh-chnum="593" tvg-id="I48639.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/NBC_Sports.png" tvh-tags="SECTV",NBC Sports
+http://10.0.14.12:5004/auto/v593/
+#EXTINF:-1 tvh-chnum="594" tvg-id="I66268.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/Hallmark.png" tvh-tags="SECTV",Hallmark Channel
+http://10.0.14.12:5004/auto/v594/
+#EXTINF:-1 tvh-chnum="597" tvg-id="I105723.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/Hallmark_Drama.png" tvh-tags="SECTV",Hallmark Drama
+http://10.0.14.12:5004/auto/v597/
+#EXTINF:-1 tvh-chnum="598" tvg-id="I16409.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/WE.png" tvh-tags="SECTV",WE tv
+http://10.0.14.12:5004/auto/v598/
+#EXTINF:-1 tvh-chnum="655" tvg-id="I71280.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/Sundance_TV.png" tvh-tags="SECTV",Sundance TV
+http://10.0.14.12:5004/auto/v655/
+#EXTINF:-1 tvh-chnum="673" tvg-id="I10153.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/truTV.png" tvh-tags="SECTV|NCAA",truTV
+http://sports:tigerlillz@giangi.dyndns.org:9981/play/ticket/stream/channel/2544f61e997c695997acd152009d4f47?title=683%20%3A%20tru%20TV%20HD
+#EXTINF:-1 tvh-chnum="674" tvg-id="I65025.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/NFL_Red_Zone.png" tvh-tags="SECTV|NFL",NFL Red Zone
+http://sports:tigerlillz@giangi.dyndns.org:9981/stream/channelid/2036757627?ticket=bf0c73022a306a6fdd6e5c764fadbf97f5739efa&profile=pass
+#EXTINF:-1 tvh-chnum="715" tvg-id="I64492.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/BBC_America.png" tvh-tags="SECTV",BBC America
+http://10.0.14.12:5004/auto/v715/
+#EXTINF:-1 tvh-chnum="718" tvg-id="I66085.json.schedulesdirect.org" tvg-logo="https://github.com/danofun/picons/raw/master/picons/NASA.png" tvh-tags="SECTV",NASA
+http://10.0.14.12:5004/auto/v718/
+#EXTINF:-1 tvh-chnum="800" tvg-logo="https://github.com/danofun/picons/raw/master/picons/Insight_UHD.png" tvh-tags="SECTV",Insight UHD
+http://10.0.14.12:5004/auto/v800/
+#EXTINF:-1 tvh-chnum="801" tvg-logo="https://github.com/danofun/picons/raw/master/picons/The_Country_Network_4k.png" tvh-tags="SECTV",The Country Network 4K
+http://10.0.14.12:5004/auto/v801/
